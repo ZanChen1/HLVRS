@@ -7,13 +7,13 @@ The main entry point for the experiments is:
 -'test.py'
 
 ## Python enviroonment
--efficientnet_pytorch==0.7.1
--matplotlib==3.5.3
--numpy==1.20.2
--Pillow==9.3.0
--Pillow==9.5.0
--torch==1.12.0
--torchvision==0.13.0
+- efficientnet_pytorch==0.7.1
+- matplotlib==3.5.3
+- numpy==1.20.2
+- Pillow==9.3.0
+- Pillow==9.5.0
+- torch==1.12.0
+- torchvision==0.13.0
 
 ## Pretrained models
 This repository does not ship large pretrained weights.
