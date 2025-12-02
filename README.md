@@ -19,6 +19,8 @@ The main entry point for the experiments is:
 This repository does not ship large pretrained weights.
 Please download the following models manually and place them at the indicated paths
 
--
+- https://pan.baidu.com/s/1omT2F81PsHqDa4rc0jaxmg pwd: thyk
+
+
 
   
