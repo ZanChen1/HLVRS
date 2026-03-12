@@ -7,15 +7,6 @@ import os
 import numpy as np
 
 
-
-class Model_choose:
-    """
-    模型选择
-    """
-    Depth_choose = True  # 深度网络
-    Seg_choose = True  # 分割网络
-
-
 # 项目配置文件
 class Common:
     '''
@@ -43,13 +34,6 @@ class Common:
     enhance_index = True
     sigma = 2
     record_filename = ""
-
-
-class Img_message:
-    station = "之江大桥"
-    label = 0
-    save_choose_station = "洋溪23016雅鼎路边"
-    save_choose_label = 10
 
 
 class Train:
