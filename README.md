@@ -6,7 +6,7 @@ This repository contains the official implementation of our paper "Learning-base
 The main entry point for the experiments is:
 - `test.py`
 
-## Python enviroonment
+## Python environment
 - efficientnet_pytorch==0.7.1
 - matplotlib==3.5.3
 - numpy==1.20.2
