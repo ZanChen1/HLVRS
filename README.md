@@ -26,6 +26,15 @@ Please download the following models manually and place them at the indicated pa
 > Zan Chen, and Ting Sun.  
 > **Nighttime Visibility Classification Based on Stable Light Sources.**  
 > IEEE Access, vol. 12, pp. 129870-129879, 2024, doi: 10.1109/ACCESS.2024.3432974. 
- 
+
+## How to cite this work
+@article{chen2026learning,
+  title={Learning-based haze visibility ranking score for real-world traffic surveillance images},
+  author={Chen, Zan and Cao, Yu and Feng, Yuanjing and Hou, Xingsong and Qian, Xueming},
+  journal={Journal of Visual Communication and Image Representation},
+  pages={104770},
+  year={2026},
+  publisher={Elsevier}
+}
 
   
